@@ -117,7 +117,7 @@ body {
 }
 
 button {
-    background-color: #D43F5E;
+    background-color: #16be00;
     color: white;
     font-size: 16px;
     padding: 10px 15px;
@@ -129,7 +129,7 @@ button {
 }
 
 button:hover {
-    background-color: #B52E4C;
+    background-color: #c2f115;
 }
 
 
@@ -314,7 +314,7 @@ button:hover {
   transform: translate(-50%, -100%);
   width: 8vmin;
   height: 8vmin;
-  background-color: #e73030;
+  background-color: #3700ff;
   filter: blur(10vmin);
 }
 .flower__leaf {
@@ -324,7 +324,7 @@ button:hover {
   width: 8vmin;
   height: 11vmin;
   border-radius: 51% 49% 47% 53%/44% 45% 55% 69%;
-  background-color: #e73030;
+  background-color: #2f00ff;
   background-image: linear-gradient(to top, #ec1010, #e73030);
   transform-origin: bottom center;
   opacity: 0.9;
